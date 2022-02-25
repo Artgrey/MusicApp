@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="19574" systemVersion="21A559" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="MusicData" representedClassName="MusicData" syncable="YES" codeGenerationType="class">
+        <attribute name="musicCategory" optional="YES" attributeType="String"/>
+    </entity>
+    <entity name="MusicDetailsData" representedClassName="MusicDetailsData" syncable="YES" codeGenerationType="class">
+        <attribute name="artist" optional="YES" attributeType="String"/>
+        <attribute name="duration" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="name" optional="YES" attributeType="String"/>
+        <attribute name="size" optional="YES" attributeType="String"/>
+    </entity>
+    <elements>
+        <element name="MusicDetailsData" positionX="-63" positionY="-18" width="128" height="89"/>
+        <element name="MusicData" positionX="-63" positionY="9" width="128" height="44"/>
+    </elements>
+</model>

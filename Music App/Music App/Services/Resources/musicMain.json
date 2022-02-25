@@ -1,0 +1,90 @@
+[
+    {
+        "musicCategory": "Rock",
+        "musicDetails": [
+            {
+                "name": "Bloodshot",
+                "artist": "Sam Tinnesz",
+                "size": "10 MB",
+                "duration": 120
+            },
+            {
+                "name": "Carry on My Wayward Son",
+                "artist": "Kansas",
+                "size": "15 MB",
+                "duration": 345
+            },
+            {
+                "name": "Overcome",
+                "artist": "Creed",
+                "size": "8 MB",
+                "duration": 234
+            },
+            {
+                "name": "Better days",
+                "artist": "Saint Chaos",
+                "size": "11 MB",
+                "duration": 104
+            },
+            {
+                "name": "Power",
+                "artist": "Sons of legion",
+                "size": "12 MB",
+                "duration": 134
+            },
+            {
+                "name": "Enemy",
+                "artist": "Imagine Dragons",
+                "size": "13 MB",
+                "duration": 167
+            },
+            {
+                "name": "Believer",
+                "artist": "Imagine Dragons",
+                "size": "10 MB",
+                "duration": 186
+            }
+        ]
+    },
+    {
+        "musicCategory": "Pop",
+        "musicDetails": [
+            {
+                "name": "Glitter and Gold",
+                "artist": "Barns Courtney",
+                "size": "20 MB",
+                "duration": 148
+            },
+            {
+                "name": "My Way",
+                "artist": "Ava Max",
+                "size": "10 MB",
+                "duration": 80
+            },
+            {
+                "name": "El Dorado",
+                "artist": "Stellar",
+                "size": "12 MB",
+                "duration": 110
+            },
+            {
+                "name": "Old Town Road",
+                "artist": "Meloy",
+                "size": "10 MB",
+                "duration": 142
+            },
+            {
+                "name": "Walk",
+                "artist": "Saint Chaos",
+                "size": "12 MB",
+                "duration": 120
+            },
+            {
+                "name": "Legacy",
+                "artist": "Thinktank",
+                "size": "8 MB",
+                "duration": 154
+            },
+        ]
+    }
+ ]
